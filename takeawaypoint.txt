@@ -1,0 +1,12 @@
+Frontend                                    Backend                                       Database
+hit api                        CRUD(Create,Read ,Upadate ,Delete)                       save
+request                        make api
+                               response
+
+
+
+CRUD                 Method
+C=Create             post
+R=Read               get
+U=Upadate            patch
+D=Delete             Delete
